@@ -8,8 +8,6 @@ A JavaScript application to analyze WhatsApp chat history locally in your browse
 * Open `index.html` in the root folder.
 * Follow instructions on the web page.
 
-Alternatively you can use the official [hosted version](https://chatanalyzer.moritzwolf.com) of this code.
-
 ## What happens to my chat data?
 
 **No chat data is transferred to any remote server, all analysis is performed locally on your device**
